@@ -19,6 +19,8 @@ SpeedyBasket is an efficient and user-friendly grocery shopping application desi
 - **📦 Order Management:** Track and manage current and past orders.
 - **💳 Payment Integration:** Seamless integration with popular payment gateways.
 - **📱 Responsive Design:** Mobile-friendly design for a better user experience on all devices.
+- **👨‍💼 Admin Panel:** Administrative interface for managing users, products, and orders.
+- **🛍️ Shopkeeper Panel:** Interface for shopkeepers to add, update, and manage products.
 
 ## 🔧 Installation
 To set up the SpeedyBasket Flutter application locally, follow these steps:
@@ -54,6 +56,8 @@ After setting up the application, you can start using it by:
 3. **Adding Items to Cart:** Add desired items to your shopping cart.
 4. **Checkout:** Proceed to checkout and complete the payment process.
 5. **Managing Orders:** View and manage your past and current orders.
+6. **Admin Panel:** Access the admin panel to manage users, products, and orders.
+7. **Shopkeeper Panel:** Use the shopkeeper panel to add, update, and manage products.
 
 ## 🤝 Contributing
 We welcome contributions to SpeedyBasket! If you would like to contribute, please follow these steps:
