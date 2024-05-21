@@ -1,0 +1,14 @@
+io.flutter.plugins.firebase.core.firebase_core-jetified-annotation-experimental-1.1.0-0 /Users/monilpuri/.gradle/caches/transforms-3/257e0bb88528f5fc66bfd853728809aa/transformed/jetified-annotation-experimental-1.1.0/res
+io.flutter.plugins.firebase.core.firebase_core-jetified-play-services-basement-18.3.0-1 /Users/monilpuri/.gradle/caches/transforms-3/4105637ca2d0ffd34d30b1a01003cfea/transformed/jetified-play-services-basement-18.3.0/res
+io.flutter.plugins.firebase.core.firebase_core-jetified-window-1.0.0-beta04-2 /Users/monilpuri/.gradle/caches/transforms-3/6582e67aea0be70979c64a0bfb01e347/transformed/jetified-window-1.0.0-beta04/res
+io.flutter.plugins.firebase.core.firebase_core-core-1.6.0-3 /Users/monilpuri/.gradle/caches/transforms-3/974b4f2252348b5ef43741b27d416a49/transformed/core-1.6.0/res
+io.flutter.plugins.firebase.core.firebase_core-jetified-window-java-1.0.0-beta04-4 /Users/monilpuri/.gradle/caches/transforms-3/9b0dd0bee9a81680af20f56797c52ab1/transformed/jetified-window-java-1.0.0-beta04/res
+io.flutter.plugins.firebase.core.firebase_core-jetified-firebase-common-20.4.3-5 /Users/monilpuri/.gradle/caches/transforms-3/fd22878c3543e1218ec5eda14573d2ac/transformed/jetified-firebase-common-20.4.3/res
+io.flutter.plugins.firebase.core.firebase_core-main-6 /Users/monilpuri/.pub-cache/hosted/pub.dev/firebase_core-2.31.0/android/src/main/res
+io.flutter.plugins.firebase.core.firebase_core-release-7 /Users/monilpuri/.pub-cache/hosted/pub.dev/firebase_core-2.31.0/android/src/release/res
+io.flutter.plugins.firebase.core.firebase_core-pngs-8 /Users/monilpuri/Desktop/proj/speedy_basket/build/firebase_core/generated/res/pngs/release
+io.flutter.plugins.firebase.core.firebase_core-resValues-9 /Users/monilpuri/Desktop/proj/speedy_basket/build/firebase_core/generated/res/resValues/release
+io.flutter.plugins.firebase.core.firebase_core-rs-10 /Users/monilpuri/Desktop/proj/speedy_basket/build/firebase_core/generated/res/rs/release
+io.flutter.plugins.firebase.core.firebase_core-mergeReleaseResources-11 /Users/monilpuri/Desktop/proj/speedy_basket/build/firebase_core/intermediates/incremental/release/mergeReleaseResources/merged.dir
+io.flutter.plugins.firebase.core.firebase_core-mergeReleaseResources-12 /Users/monilpuri/Desktop/proj/speedy_basket/build/firebase_core/intermediates/incremental/release/mergeReleaseResources/stripped.dir
+io.flutter.plugins.firebase.core.firebase_core-merged_res-13 /Users/monilpuri/Desktop/proj/speedy_basket/build/firebase_core/intermediates/merged_res/release

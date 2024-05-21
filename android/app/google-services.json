@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "341366161560",
+    "project_id": "speedybasket-665c0",
+    "storage_bucket": "speedybasket-665c0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:341366161560:android:4746aaa7f3386d60a350ed",
+        "android_client_info": {
+          "package_name": "com.example.speedy_basket"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZiFbaBuPh-vGArjJEHFo1DDdIuG3lDoU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

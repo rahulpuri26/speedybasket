@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.speedy_basket.app-mergeReleaseResources-25:/values-v16/values-v16.xml",
+            "map": [
+                {
+                    "source": "/Users/monilpuri/.gradle/caches/transforms-3/a154abde798d571024a631111a596fc9/transformed/core-1.10.1/res/values-v16/values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "65",
+                        "endOffsets": "116"
+                    }
+                }
+            ]
+        }
+    ]
+}

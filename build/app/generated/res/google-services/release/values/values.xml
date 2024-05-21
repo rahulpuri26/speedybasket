@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="gcm_defaultSenderId" translatable="false">341366161560</string>
+    <string name="google_api_key" translatable="false">AIzaSyCZiFbaBuPh-vGArjJEHFo1DDdIuG3lDoU</string>
+    <string name="google_app_id" translatable="false">1:341366161560:android:4746aaa7f3386d60a350ed</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCZiFbaBuPh-vGArjJEHFo1DDdIuG3lDoU</string>
+    <string name="google_storage_bucket" translatable="false">speedybasket-665c0.appspot.com</string>
+    <string name="project_id" translatable="false">speedybasket-665c0</string>
+</resources>

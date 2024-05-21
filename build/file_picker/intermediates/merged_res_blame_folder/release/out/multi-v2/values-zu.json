@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.mr.flutter.plugin.filepicker.file_picker-merged_res-10:/values-zu/values-zu.xml",
+            "map": [
+                {
+                    "source": "/Users/monilpuri/.gradle/caches/transforms-3/974b4f2252348b5ef43741b27d416a49/transformed/core-1.6.0/res/values-zu/values-zu.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.mr.flutter.plugin.filepicker.file_picker-mergeReleaseResources-8:/values-zu/values-zu.xml",
+            "map": [
+                {
+                    "source": "/Users/monilpuri/.gradle/caches/transforms-3/974b4f2252348b5ef43741b27d416a49/transformed/core-1.6.0/res/values-zu/values-zu.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        }
+    ]
+}
