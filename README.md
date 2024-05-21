@@ -1,26 +1,26 @@
-# SpeedyBasket
+# 🛒 SpeedyBasket
 
 SpeedyBasket is an efficient and user-friendly grocery shopping application designed to streamline the online shopping experience. This repository contains the source code for the SpeedyBasket application, built with Flutter to provide quick access to grocery items, easy management of shopping lists, and a seamless checkout process.
 
 **Note: This project is currently in progress. Contributions and feedback are welcome!**
 
 ## Table of Contents
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
+- [🌟 Features](#features)
+- [🔧 Installation](#installation)
+- [🚀 Usage](#usage)
+- [🤝 Contributing](#contributing)
+- [📜 License](#license)
+- [📞 Contact](#contact)
 
-## Features
-- **User Authentication:** Secure user registration and login system.
-- **Product Search:** Quick and efficient search functionality for finding grocery items.
-- **Shopping Cart:** Easy management of items in the shopping cart.
-- **Order Management:** Track and manage current and past orders.
-- **Payment Integration:** Seamless integration with popular payment gateways.
-- **Responsive Design:** Mobile-friendly design for a better user experience on all devices.
+## 🌟 Features
+- **🔒 User Authentication:** Secure user registration and login system.
+- **🔍 Product Search:** Quick and efficient search functionality for finding grocery items.
+- **🛒 Shopping Cart:** Easy management of items in the shopping cart.
+- **📦 Order Management:** Track and manage current and past orders.
+- **💳 Payment Integration:** Seamless integration with popular payment gateways.
+- **📱 Responsive Design:** Mobile-friendly design for a better user experience on all devices.
 
-## Installation
+## 🔧 Installation
 To set up the SpeedyBasket Flutter application locally, follow these steps:
 1. **Clone the Repository:**
     ```bash
@@ -47,7 +47,7 @@ To set up the SpeedyBasket Flutter application locally, follow these steps:
     flutter run
     ```
 
-## Usage
+## 🚀 Usage
 After setting up the application, you can start using it by:
 1. **Registering a New Account:** Sign up with a new user account.
 2. **Browsing Products:** Use the search feature to find grocery items.
@@ -55,7 +55,7 @@ After setting up the application, you can start using it by:
 4. **Checkout:** Proceed to checkout and complete the payment process.
 5. **Managing Orders:** View and manage your past and current orders.
 
-## Contributing
+## 🤝 Contributing
 We welcome contributions to SpeedyBasket! If you would like to contribute, please follow these steps:
 1. **Fork the Repository:** Click the "Fork" button on the top right of the repository page.
 2. **Clone Your Fork:**
@@ -78,10 +78,10 @@ We welcome contributions to SpeedyBasket! If you would like to contribute, pleas
     ```
 7. **Create a Pull Request:** Navigate to the original repository and create a pull request from your fork.
 
-## License
+## 📜 License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
-## Contact
+## 📞 Contact
 If you have any questions or need further assistance, feel free to contact the repository owner:
 - **Rahul Puri**
     - [GitHub Profile](https://github.com/rahulpuri26)
