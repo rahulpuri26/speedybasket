@@ -60,7 +60,7 @@ After setting up the application, you can start using it by:
 7. **Shopkeeper Panel:** Use the shopkeeper panel to add, update, and manage products.
 
 ## 🤝 Contributing
-We welcome contributions to SpeedyBasket! If you would like to contribute, please follow these steps:
+I welcome contributions to SpeedyBasket! If you would like to contribute, please follow these steps:
 1. **Fork the Repository:** Click the "Fork" button on the top right of the repository page.
 2. **Clone Your Fork:**
     ```bash
@@ -81,9 +81,6 @@ We welcome contributions to SpeedyBasket! If you would like to contribute, pleas
     git push origin feature/your-feature-name
     ```
 7. **Create a Pull Request:** Navigate to the original repository and create a pull request from your fork.
-
-## 📜 License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## 📞 Contact
 If you have any questions or need further assistance, feel free to contact the repository owner:
